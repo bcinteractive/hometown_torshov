@@ -9,7 +9,8 @@ DARK BLUE: #1D3557
 */
 
 body {
-    margin: 0;
+    margin: 0 auto;
+    width: 720px;
     text-align: center;
     color: #1d3557;
     font-family: 'Roboto Slab', serif;
